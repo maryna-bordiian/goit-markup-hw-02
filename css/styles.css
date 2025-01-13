@@ -72,22 +72,22 @@ a {text-decoration: none;
 }
 
 .main-banner-text {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 .main-btn {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;
-    background: #4d5ae5;
-    cursor: pointer;  
+    color: #ffffff;
+    background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 button:hover, button:focus {
@@ -122,14 +122,15 @@ button:hover, button:focus {
     text-transform: capitalize;
 }
 
-.team-photo {background-color: #FFFFFF;}
+.team-photo {
+    background-color: #FFFFFF;
+}
 
 .main-team {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 
