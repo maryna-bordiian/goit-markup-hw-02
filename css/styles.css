@@ -4,7 +4,6 @@ background-color: #fff;
 }
 
 ol, ul {list-style: none;
-padding: left;
 margin: 0;
 }
 
@@ -107,7 +106,6 @@ button:hover, button:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
-
 
 .our-team {
     background-color: #F4F4FD;
