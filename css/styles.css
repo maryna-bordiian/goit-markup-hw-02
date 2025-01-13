@@ -23,13 +23,21 @@ a {text-decoration: none;
     color: #4d5ae5;
 }
 
-.header-logo {margin-right: 76px;}
+.header-logo {
+    margin-right: 76px;
+}
 
-.header-logo .logo-part {color: #2e2f42;}
+.header-logo .logo-part {
+    color: #2e2f42;
+}
 
-.footer-logo .logo-part {color: #f4f4fd;}
+.footer-logo .logo-part {
+    color: #f4f4fd;
+}
 
-.footer-logo {margin-bottom: 16px;}
+.footer-logo {
+    margin-bottom: 16px;
+}
 
 
 .nav-link {
@@ -40,7 +48,8 @@ a {text-decoration: none;
     color: #2e2f42;
 }
 
-.contacts {font-style: normal;
+.contacts {
+    font-style: normal;
 }
 
 .contacts-link {
@@ -55,23 +64,20 @@ a {text-decoration: none;
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
-    }
-
-
-
+}
+    
 
 .main-banner {
     background-color: #2e2f42;
-    width: 1440px;
-    height: 600px;}
+}
 
 .main-banner-text {
-        font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #fff;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
 }
 
 .main-btn {
@@ -103,7 +109,9 @@ button:hover, button:focus {
     color: #434455;}
 
 
-.our-team {background-color: #F4F4FD;}
+.our-team {
+    background-color: #F4F4FD;
+}
 
 .team-title {
     font-size: 36px;
@@ -130,7 +138,6 @@ button:hover, button:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
 
 .our-portfolio {
     font-size: 36px;
@@ -160,11 +167,13 @@ button:hover, button:focus {
     background-color: #2e2f42;
 }
 
-.footer-text {font-weight: 400;
+.footer-text {
+    font-weight: 400;
     font: size 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;}
+    color: #f4f4fd;
+}
 
 .main-team {
     background-color: #f4f4fd;
